@@ -1,5 +1,5 @@
 ---
-title: 마이크로바이옴과 ASD 분산 vs. 차이 해석 / Microbiome and ASD: Interpreting Variance Explained vs. Differential Abundance
+title: "마이크로바이옴과 ASD 분산 vs. 차이 해석 / Microbiome and ASD: Interpreting Variance Explained vs. Differential Abundance"
 chapter: 10
 topics: [microbiome, ASD, variance explained, effect size, differential abundance]
 date: 2026-04-07

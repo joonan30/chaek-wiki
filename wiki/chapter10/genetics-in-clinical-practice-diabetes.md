@@ -1,5 +1,5 @@
 ---
-title: Genetics in Clinical Practice: Type 2 Diabetes / 임상에서의 유전체 정보 활용: 제2형 당뇨
+title: "Genetics in Clinical Practice: Type 2 Diabetes / 임상에서의 유전체 정보 활용: 제2형 당뇨"
 chapter: 10
 topics: [type 2 diabetes, polygenic risk score, clinical genetics, precision medicine, MODY]
 date: 2026-04-07
