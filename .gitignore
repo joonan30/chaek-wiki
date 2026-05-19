@@ -39,6 +39,9 @@ yarn-error.log*
 # superpowers
 .superpowers/
 
+# humanizer working artifacts
+/_workspace/
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts
